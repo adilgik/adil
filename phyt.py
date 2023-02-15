@@ -10,6 +10,7 @@ print('Hello, world! 01')
 num1 = 10
 num2 = 14
 num3 = 120
+num4=600
 largest=0
 # uncomment following lines to take three numbers from user
 #num1 = float(input("Enter first number: "))
@@ -22,5 +23,6 @@ if (num2 >= largest)
    largest = num2
 if (num2 >= largest)
    largest = num3
-
+if (num2 >= largest)
+   largest = num3
 print("The largest number is", largest)
