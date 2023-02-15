@@ -9,7 +9,7 @@ print('Hello, world! 01')
 # for a different result
 num1 = 10
 num2 = 14
-num3 = 12
+num3 = 120
 largest=0
 # uncomment following lines to take three numbers from user
 #num1 = float(input("Enter first number: "))
